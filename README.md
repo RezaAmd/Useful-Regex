@@ -1,5 +1,5 @@
-# Useful-Regex
-An collection of useful regex
+# Useful Regex
+A collection of useful regex.
 
 `Guid`:
 ```
