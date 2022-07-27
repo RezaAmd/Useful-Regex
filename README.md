@@ -1,12 +1,12 @@
-# Useful Regex
-A collection of useful regex.
+# Useful Regular Expressions
+A collection of useful regex for You!
 
-`Guid`:
+### Guid:
 ```
 [a-z0-9]{8}[\-][a-z0-9]{4}[\-][a-z0-9]{4}[\-][a-z0-9]{4}[\-][a-z0-9]{12}
 ```
 
-`Username`:
+### Username:
 ```
 ^(?=.{8,20}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$
 
@@ -20,4 +20,8 @@ A collection of useful regex.
        │         no _ or . at the beginning
        │
        username is 8-20 characters long
+```
+### Email:
+```
+^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$
 ```
