@@ -1,10 +1,10 @@
+<div style:"text-align:center;">
+<p>
+    <a href="#buy-me-a-coffee-" target="_blank"><img src="https://badgen.net/badge/icon/buymeacoffee/green?icon=buymeacoffee&label"/></a>
+</p>
+</div>
 # Useful Regular Expressions
 A collection of useful regex for You!
-
-### Guid:
-```
-[a-z0-9]{8}[\-][a-z0-9]{4}[\-][a-z0-9]{4}[\-][a-z0-9]{4}[\-][a-z0-9]{12}
-```
 
 ### Username:
 ```
@@ -21,7 +21,15 @@ A collection of useful regex for You!
        │
        username is 8-20 characters long
 ```
+
+### Guid:
+```
+[a-z0-9]{8}[\-][a-z0-9]{4}[\-][a-z0-9]{4}[\-][a-z0-9]{4}[\-][a-z0-9]{12}
+```
+
 ### Email:
 ```
 ^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$
 ```
+
+## Buy me a coffee :)
