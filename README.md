@@ -1,6 +1,5 @@
 <div style:"text-align:center;">
 <p>
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="NuGet" />
     <a href="#buy-me-a-coffee-" target="_blank"><img src="https://badgen.net/badge/icon/buymeacoffee/green?icon=buymeacoffee&label"/></a>
 </p>
 </div>
