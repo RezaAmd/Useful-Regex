@@ -33,5 +33,3 @@ Here I have tried to collect a collection of useful used regexes!
 ```
 ^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$
 ```
-
-## Buy me a coffee :)
